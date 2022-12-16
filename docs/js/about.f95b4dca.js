@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshu_ken_github_io"]=self["webpackChunkshu_ken_github_io"]||[]).push([[443],{1168:function(u,n,t){t.r(n),t.d(n,{default:function(){return r}});var s=function(){var u=this;u._self._c;return u._m(0)},e=[function(){var u=this,n=u._self._c;return n("div",{staticClass:"about"},[n("h1",[u._v("This is an about page")])])}],i=t(1001),a={},l=(0,i.Z)(a,s,e,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.f95b4dca.js.map
